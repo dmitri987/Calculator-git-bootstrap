@@ -174,5 +174,7 @@ public class MainActivity extends AppCompatActivity {
     }
     
     //this is the test of pull feature
+    
+    //Another comment
 
 }
